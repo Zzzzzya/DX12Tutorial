@@ -1,0 +1,9 @@
+{
+  "name" : "test",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "4f746bc66438fce2b900c3ba6094a483b871b045",
+  "dependencies" : [ {
+    "name" : "fmt",
+    "version>=" : "10.2.1#2"
+  } ]
+}
